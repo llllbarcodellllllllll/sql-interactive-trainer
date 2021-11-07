@@ -1,0 +1,2 @@
+# sql-interactive-trainer
+Конспект по SQL курсу
